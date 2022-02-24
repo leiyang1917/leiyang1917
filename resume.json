@@ -9,14 +9,13 @@
     "aboutme": "自我介绍"
   },
   "avatar": {
+    "src":"https://file.500d.me/upload/uimage/202201/16/1a8aa680-7e2c-474e-91eb-fb83dc9fbd82.jpeg",
     "hidden": false
   },
   "profile": {
     "name": "雷阳",
     "email": "19909238832@163.com",
     "mobile": "19909238832",
-    "github": "https://github.com/visiky",
-    "zhihu": "https://zhihu.com/people/visiky",
     "workExpYear": "",
     "workPlace": "陕西西安",
     "positionTitle": "Java开发工程师"
