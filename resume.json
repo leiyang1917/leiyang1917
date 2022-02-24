@@ -23,7 +23,7 @@
   },
   "educationList": [
     {
-      "edu_time": "2018.09.01,2022.06.30",
+      "edu_time": ["2018.09.01", "2022.06.30"],
       "school": "西安电子科技大学",
       "major": "计算机科学与技术",
       "academic_degree": "本科",
